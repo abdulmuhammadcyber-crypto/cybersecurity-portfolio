@@ -1,4 +1,4 @@
-# Project 4 — Linux File Permissions Hardening
+# Project 4: Linux File Permissions Hardening
 
 Skills: Linux, Bash, chmod and ls -l, principle of least privilege.
 

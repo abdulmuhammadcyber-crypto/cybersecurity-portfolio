@@ -1,4 +1,4 @@
-# Project 5 — SQL for Security Investigations
+# Project 5: SQL for Security Investigations
 
 Skills: SQL, filtering with WHERE, AND, OR, NOT, and LIKE, joins, log analysis.
 

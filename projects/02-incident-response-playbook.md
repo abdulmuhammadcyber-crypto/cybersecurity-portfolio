@@ -1,4 +1,4 @@
-# Project 2 — Incident Response Playbook
+# Project 2: Incident Response Playbook
 
 Skills: Incident response lifecycle, playbook design, escalation, NIST SP 800-61.
 
@@ -8,12 +8,12 @@ An organization needed a repeatable playbook so analysts respond to security inc
 
 ## NIST Incident Response Lifecycle
 
-1. Preparation — tooling, contacts, backups, and training
-2. Detection and Analysis — alerts, triage, and scoping
-3. Containment, Eradication, and Recovery — isolate, remove, and restore
-4. Post-Incident Activity — lessons learned and reporting
+1. Preparation, which covers tooling, contacts, backups, and training
+2. Detection and Analysis, which covers alerts, triage, and scoping
+3. Containment, Eradication, and Recovery, meaning isolate, remove, and restore
+4. Post-Incident Activity, meaning lessons learned and reporting
 
-## Playbook — Ransomware Detected
+## Playbook: Ransomware Detected
 
 ### Phase 1: Detection and Analysis
 

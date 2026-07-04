@@ -1,4 +1,4 @@
-# Project 1 — Internal Security Audit (Botium Toys)
+# Project 1: Internal Security Audit (Botium Toys)
 
 Skills: Risk assessment, NIST Cybersecurity Framework (CSF), controls and compliance, governance and risk.
 
@@ -29,12 +29,12 @@ Identify gaps in the company's security controls and recommend improvements to r
 | Control | In place | Priority |
 |---|---|---|
 | Least privilege and role-based access control | No | High |
-| Firewall | Yes | — |
+| Firewall | Yes | n/a |
 | Intrusion Detection System | No | High |
 | Data encryption at rest and in transit | No | High |
 | Disaster recovery plan | No | High |
 | Password policy and MFA | Partial | High |
-| Antivirus software | Yes | — |
+| Antivirus software | Yes | n/a |
 | Backups | No | Medium |
 
 ## Recommendations

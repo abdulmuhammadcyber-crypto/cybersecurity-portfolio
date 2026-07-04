@@ -1,4 +1,4 @@
-# Project 3 — Network Traffic Analysis
+# Project 3: Network Traffic Analysis
 
 Skills: TCP/IP, Wireshark, tcpdump, packet inspection, protocol analysis.
 

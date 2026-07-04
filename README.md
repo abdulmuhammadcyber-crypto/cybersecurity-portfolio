@@ -1,33 +1,27 @@
-# Abdul Muhammad — Cybersecurity Portfolio
+# Abdul Muhammad Cybersecurity Portfolio
 
-Aspiring Cybersecurity Analyst focused on security operations, threat detection, incident response, and defensive security. Currently completing the Google Cybersecurity Professional Certificate.
+Aspiring cybersecurity analyst focused on security operations, threat detection, incident response, and defensive security. I am currently completing the Google Cybersecurity Professional Certificate.
 
-This repository documents hands-on projects that demonstrate the core competencies expected of an entry-level Security Analyst / SOC Analyst, covering risk assessment, network analysis, Linux, SQL, Python automation, and incident response.
-
----
+This repository holds the hands-on projects I have worked through while building the skills expected of an entry-level Security Analyst or SOC Analyst. They cover risk assessment, network analysis, Linux, SQL, Python automation, and incident response.
 
 ## About Me
 
-I am an entry-level cybersecurity professional building practical, job-ready skills through the Google Cybersecurity Professional Certificate. My interest is in protecting organizations from threats, investigating security incidents, and hardening systems against attack.
+I am an entry-level cybersecurity professional building practical, job-ready skills through the Google Cybersecurity Professional Certificate. My main interest is protecting organizations from threats, investigating security incidents, and hardening systems against attack.
 
-- Goal: Entry-level SOC Analyst or Security Analyst role
-- Core areas: Security frameworks, threat detection, incident response, network security, scripting
-- Email: Abdulmuhammadcyber@gmail.com
+My goal is to land an entry-level SOC Analyst or Security Analyst role. The areas I focus on are security frameworks, threat detection, incident response, network security, and scripting.
 
----
+You can reach me at Abdulmuhammadcyber@gmail.com.
 
 ## Skills and Tools
 
 | Category | Skills and Tools |
 |---|---|
 | Frameworks | NIST CSF, NIST RMF, CIA Triad, CISSP domains, MITRE ATT&CK, PCI DSS |
-| Security Operations | SIEM (Splunk, Chronicle), IDS/IPS (Suricata), log analysis, playbooks |
+| Security Operations | SIEM (Splunk, Chronicle), IDS and IPS (Suricata), log analysis, playbooks |
 | Network Security | TCP/IP, Wireshark, tcpdump, packet analysis, firewalls |
 | Operating Systems | Linux (Bash, file permissions), Windows |
 | Programming | Python (automation), SQL (filtering, joins) |
 | Governance and Risk | Risk assessment, security audits, controls, compliance |
-
----
 
 ## Projects
 
@@ -42,15 +36,9 @@ I am an entry-level cybersecurity professional building practical, job-ready ski
 | 7 | [Python Automation for Security](projects/07-python-automation.md) | Python, log parsing, allow and deny lists |
 | 8 | [Incident Report](projects/08-incident-report.md) | NIST CSF, documentation, lessons learned |
 
----
-
 ## Certifications and Learning
 
-- Google Cybersecurity Professional Certificate (in progress)
-- Ongoing practical training on TryHackMe and Hack The Box
-- CompTIA Security+ (planned)
-
----
+I am currently working through the Google Cybersecurity Professional Certificate. Alongside it I practice on TryHackMe and Hack The Box, and I plan to sit the CompTIA Security+ exam next.
 
 ## Contact
 

@@ -1,4 +1,4 @@
-# Project 7 — Python Automation for Security
+# Project 7: Python Automation for Security
 
 Skills: Python, file parsing, algorithms, allow and deny lists.
 

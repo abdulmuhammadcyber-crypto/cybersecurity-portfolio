@@ -1,4 +1,4 @@
-# Project 8 — Incident Report: Phishing Leading to Malware
+# Project 8: Incident Report on Phishing Leading to Malware
 
 Skills: NIST CSF, incident documentation, root-cause analysis, lessons learned.
 
