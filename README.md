@@ -1,5 +1,11 @@
 # Abdul Muhammad Cybersecurity Portfolio
 
+## Professional Statement
+
+I am a detail oriented and motivated aspiring cybersecurity analyst building foundational skills in security monitoring, threat detection, and incident response through the Google Cybersecurity Certificate. I value integrity, diligence, and continuous learning, and I am genuinely driven to protect the people behind the data. I want to apply my skills in log analysis, vulnerability assessment, and risk mitigation to help organizations protect the confidentiality, integrity, and availability of their systems and assets.
+
+## Overview
+
 I am an aspiring cybersecurity analyst focused on security operations, threat detection, incident response, and defensive security. I am currently completing the Google Cybersecurity Professional Certificate.
 
 This repository holds the projects I have worked through while building the skills expected of an entry level Security Analyst or SOC Analyst. They cover risk assessment, network analysis, Linux, SQL, Python automation, and incident response.
