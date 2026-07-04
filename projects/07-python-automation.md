@@ -1,13 +1,13 @@
 # Project 7 — Python Automation for Security
 
-**Skills:** Python · File parsing · Algorithms · Allow/deny lists
+Skills: Python, file parsing, algorithms, allow and deny lists.
 
-## 📌 Scenario
-The security team maintains an **allow list** of IP addresses permitted to access a restricted
-subnetwork. I wrote a Python script to automatically remove IPs that appear on a **remove list**
-(revoked access), instead of editing the file by hand.
+## Scenario
 
-## 🐍 The Script
+The security team maintains an allow list of IP addresses permitted to access a restricted subnetwork. I wrote a Python script to automatically remove IP addresses that appear on a remove list of revoked access, instead of editing the file by hand.
+
+## The Script
+
 ```python
 # update_allow_list.py
 # Removes revoked IP addresses from an allow-list file.
@@ -22,7 +22,7 @@ with open(import_file, "r") as file:
 # 2. Convert the string into a list
 ip_addresses = ip_addresses.split()
 
-# 3. Remove any IP that is on the remove list
+# 3. Remove any IP address that is on the remove list
 for element in ip_addresses[:]:            # iterate over a copy
     if element in remove_list:
         ip_addresses.remove(element)
@@ -35,12 +35,13 @@ with open(import_file, "w") as file:
 print("Allow list updated.")
 ```
 
-## 🔑 Concepts Demonstrated
-- **File I/O** with context managers (`with open(...)`)
-- **String ↔ list** conversion (`.split()`, `.join()`)
-- **Iteration + conditionals** to filter data
-- **Access control automation** — reducing human error
+## Concepts Demonstrated
 
-## 🧾 Outcome
-Automated an access-control task that scales to thousands of entries, ensuring revoked IPs lose
-access consistently and immediately — a small but real example of security automation.
+- File input and output using context managers with the open function
+- Converting between strings and lists using split and join
+- Iteration and conditionals to filter data
+- Automating an access-control task to reduce human error
+
+## Outcome
+
+I automated an access-control task that scales to thousands of entries, ensuring revoked IP addresses lose access consistently and immediately. This is a small but practical example of security automation.

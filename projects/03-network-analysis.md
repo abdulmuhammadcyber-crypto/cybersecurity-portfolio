@@ -1,24 +1,26 @@
 # Project 3 — Network Traffic Analysis
 
-**Skills:** TCP/IP · Wireshark · tcpdump · Packet inspection · Protocol analysis
+Skills: TCP/IP, Wireshark, tcpdump, packet inspection, protocol analysis.
 
-## 📌 Scenario
-A web server became unreachable. Users received a "connection timed out" error. I analyzed captured
-network traffic to identify the root cause.
+## Scenario
 
-## 🧰 Tools
-- **Wireshark** — GUI packet capture and analysis
-- **tcpdump** — CLI packet capture
+A web server became unreachable and users received a connection timed out error. I analyzed captured network traffic to identify the root cause.
 
-## 🔍 Investigation
+## Tools
+
+- Wireshark for graphical packet capture and analysis
+- tcpdump for command-line packet capture
+
+## Investigation
 
 ### Symptoms
-- HTTP requests to the web server received **no response**.
-- Users saw repeated **connection timeouts**.
+
+- HTTP requests to the web server received no response
+- Users experienced repeated connection timeouts
 
 ### Packet Analysis Findings
-Reviewing the capture, I observed an abnormally high volume of **TCP SYN packets** arriving from
-many source IPs, with **no completed three-way handshakes** (no SYN-ACK → ACK).
+
+Reviewing the capture, I observed an abnormally high volume of TCP SYN packets arriving from many source IP addresses, with no completed three-way handshakes (no SYN-ACK followed by ACK).
 
 ```
 # Filter used in tcpdump
@@ -30,15 +32,16 @@ tcp.analysis.retransmission                  # server struggling to respond
 ```
 
 ### Root Cause
-The server was the target of a **SYN flood (DoS) attack**. The connection table filled with
-half-open connections, exhausting resources so legitimate users could not connect.
 
-## 🛡️ Recommendations
-1. Enable **SYN cookies** on the server.
-2. Deploy rate limiting / a firewall rule to drop excessive SYN from single sources.
-3. Use a **DDoS mitigation** / upstream scrubbing service.
-4. Add IDS signatures to alert on SYN-flood patterns.
+The server was the target of a SYN flood denial-of-service attack. The connection table filled with half-open connections, exhausting server resources so legitimate users could not connect.
 
-## 🧾 Outcome
-Identified a network-layer denial-of-service condition through packet analysis and recommended
-layered mitigations to restore and protect availability (the **A** in the CIA triad).
+## Recommendations
+
+1. Enable SYN cookies on the server.
+2. Deploy rate limiting or a firewall rule to drop excessive SYN packets from single sources.
+3. Use a DDoS mitigation or upstream scrubbing service.
+4. Add IDS signatures to alert on SYN flood patterns.
+
+## Outcome
+
+I identified a network-layer denial-of-service condition through packet analysis and recommended layered mitigations to restore and protect availability, the availability component of the CIA triad.
