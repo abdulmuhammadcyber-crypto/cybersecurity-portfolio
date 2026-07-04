@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets — never commit real credentials
+*.env
+secrets.*
+*.key
+*.pem
