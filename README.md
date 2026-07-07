@@ -37,6 +37,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 6 | [Vulnerability Assessment](projects/06-vulnerability-assessment.md) | Threat modeling, attack surface, remediation |
 | 7 | [Python Automation for Security](projects/07-python-automation.md) | Python, log parsing, allow and deny lists |
 | 8 | [Incident Report](projects/08-incident-report.md) | NIST CSF, documentation, lessons learned |
+| 9 | [DNS and ICMP Traffic Analysis](projects/09-dns-icmp-traffic-analysis.md) | DNS, ICMP, tcpdump, packet analysis |
 
 ## Certifications and Learning
 
