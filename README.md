@@ -43,6 +43,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 12 | [Risk Register for a Commercial Bank](projects/12-risk-register.md) | Risk assessment, NIST CSF, likelihood and impact scoring |
 | 13 | [Data Leak Worksheet and Least Privilege Review](projects/13-data-leak-worksheet.md) | Least privilege, NIST SP 800-53 AC-6, data handling, privacy |
 | 14 | [Access Control Worksheet and Incident Review](projects/14-access-control-worksheet.md) | Access controls, least privilege, RBAC, MFA, log analysis |
+| 15 | [Vulnerability Assessment Report: Public Database Server](projects/15-vulnerability-assessment-report.md) | NIST SP 800-30, risk assessment, threat sources, remediation |
 
 ## Certifications and Learning
 
