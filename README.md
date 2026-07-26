@@ -39,6 +39,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 8 | [Incident Report](projects/08-incident-report.md) | NIST CSF, documentation, lessons learned |
 | 9 | [DNS and ICMP Traffic Analysis](projects/09-dns-icmp-traffic-analysis.md) | DNS, ICMP, tcpdump, packet analysis |
 | 10 | [Incident Report Analysis Using the NIST CSF](projects/10-incident-report-nist-csf-dos.md) | NIST CSF, DoS analysis, firewalls, IDS and IPS |
+| 11 | [Home Asset Inventory and Classification](projects/11-asset-inventory.md) | Asset management, inventory, data classification, CIA triad |
 
 ## Certifications and Learning
 
