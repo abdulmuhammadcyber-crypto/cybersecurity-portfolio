@@ -47,6 +47,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 16 | [USB Baiting Exercise: The Parking Lot Drive](projects/16-usb-baiting-exercise.md) | Social engineering, removable media, threat analysis, controls |
 | 17 | [PASTA Threat Model for a Sneaker Retail App](projects/17-pasta-threat-model-sneaker-app.md) | PASTA framework, threat modeling, attack trees, SQL injection, controls |
 | 18 | [Incident Handler's Journal: Health Care Clinic Ransomware](projects/18-incident-handler-journal-ransomware.md) | Incident documentation, 5 W's, ransomware, phishing, incident response |
+| 19 | [Wireshark and tcpdump: A Comparison](projects/19-wireshark-vs-tcpdump-comparison.md) | Packet sniffers, network protocol analysis, Wireshark, tcpdump, pcap |
 
 ## Certifications and Learning
 
