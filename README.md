@@ -45,6 +45,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 14 | [Access Control Worksheet and Incident Review](projects/14-access-control-worksheet.md) | Access controls, least privilege, RBAC, MFA, log analysis |
 | 15 | [Vulnerability Assessment Report: Public Database Server](projects/15-vulnerability-assessment-report.md) | NIST SP 800-30, risk assessment, threat sources, remediation |
 | 16 | [USB Baiting Exercise: The Parking Lot Drive](projects/16-usb-baiting-exercise.md) | Social engineering, removable media, threat analysis, controls |
+| 17 | [PASTA Threat Model for a Sneaker Retail App](projects/17-pasta-threat-model-sneaker-app.md) | PASTA framework, threat modeling, attack trees, SQL injection, controls |
 
 ## Certifications and Learning
 
