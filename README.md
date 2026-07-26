@@ -50,6 +50,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 19 | [Wireshark and tcpdump: A Comparison](projects/19-wireshark-vs-tcpdump-comparison.md) | Packet sniffers, network protocol analysis, Wireshark, tcpdump, pcap |
 | 20 | [VirusTotal and the Pyramid of Pain](projects/20-virustotal-pyramid-of-pain.md) | VirusTotal, IoCs, Pyramid of Pain, MITRE ATT&CK, malware analysis, threat intel |
 | 21 | [Phishing Playbook and Alert Ticket Resolution](projects/21-phishing-playbook-alert-ticket.md) | Playbooks, incident response, phishing, alert triage, escalation |
+| 22 | [Reviewing an Incident Final Report](projects/22-incident-final-report-review.md) | NIST lifecycle, post-incident review, root cause, forced browsing, recommendations |
 
 ## Certifications and Learning
 
