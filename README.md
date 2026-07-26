@@ -42,6 +42,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 11 | [Home Asset Inventory and Classification](projects/11-asset-inventory.md) | Asset management, inventory, data classification, CIA triad |
 | 12 | [Risk Register for a Commercial Bank](projects/12-risk-register.md) | Risk assessment, NIST CSF, likelihood and impact scoring |
 | 13 | [Data Leak Worksheet and Least Privilege Review](projects/13-data-leak-worksheet.md) | Least privilege, NIST SP 800-53 AC-6, data handling, privacy |
+| 14 | [Access Control Worksheet and Incident Review](projects/14-access-control-worksheet.md) | Access controls, least privilege, RBAC, MFA, log analysis |
 
 ## Certifications and Learning
 
