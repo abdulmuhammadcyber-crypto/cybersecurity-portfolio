@@ -51,6 +51,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 20 | [VirusTotal and the Pyramid of Pain](projects/20-virustotal-pyramid-of-pain.md) | VirusTotal, IoCs, Pyramid of Pain, MITRE ATT&CK, malware analysis, threat intel |
 | 21 | [Phishing Playbook and Alert Ticket Resolution](projects/21-phishing-playbook-alert-ticket.md) | Playbooks, incident response, phishing, alert triage, escalation |
 | 22 | [Reviewing an Incident Final Report](projects/22-incident-final-report-review.md) | NIST lifecycle, post-incident review, root cause, forced browsing, recommendations |
+| 23 | [Incident Handler's Journal (Final)](projects/23-incident-handler-journal-final.md) | Incident documentation, 5 W's, VirusTotal, Wireshark, tcpdump, Suricata, NIST lifecycle |
 
 ## Certifications and Learning
 
