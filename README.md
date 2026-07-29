@@ -52,6 +52,7 @@ I am an entry level cybersecurity professional building practical skills that pr
 | 21 | [Phishing Playbook and Alert Ticket Resolution](projects/21-phishing-playbook-alert-ticket.md) | Playbooks, incident response, phishing, alert triage, escalation |
 | 22 | [Reviewing an Incident Final Report](projects/22-incident-final-report-review.md) | NIST lifecycle, post-incident review, root cause, forced browsing, recommendations |
 | 23 | [Incident Handler's Journal (Final)](projects/23-incident-handler-journal-final.md) | Incident documentation, 5 W's, VirusTotal, Wireshark, tcpdump, Suricata, NIST lifecycle |
+| 24 | [Quantum Password Hasher and Security Toolkit](projects/security-toolkit/README.md) | Applied cryptography, PBKDF2, HMAC SHA 512, Web Crypto API, quantum resistant hashing, secure client side design |
 
 ## Certifications and Learning
 
